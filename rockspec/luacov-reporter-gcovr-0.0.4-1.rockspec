@@ -1,9 +1,9 @@
 package = "luacov-reporter-gcovr"
-version = "0.0.3-1"
+version = "0.0.4-1"
 
 source = {
-    url = "https://github.com/jprjr/luacov-reporter-gcovr/archive/0.0.3.tar.gz",
-    file = "luacov-reporter-gcovr-0.0.3.tar.gz",
+    url = "https://github.com/jprjr/luacov-reporter-gcovr/archive/0.0.4.tar.gz",
+    file = "luacov-reporter-gcovr-0.0.4.tar.gz",
 }
 
 description = {
